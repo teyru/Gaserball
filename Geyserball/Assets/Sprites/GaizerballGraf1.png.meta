@@ -1,0 +1,1748 @@
+fileFormatVersion: 2
+guid: 98d5c04620b8128478db052325648ef7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5687531831982261445
+    second: GaizerballGraf1_0
+  - first:
+      213: 3537106034254043490
+    second: GaizerballGraf1_1
+  - first:
+      213: 7644076687453945925
+    second: GaizerballGraf1_2
+  - first:
+      213: -4609867487590447206
+    second: GaizerballGraf1_3
+  - first:
+      213: 7940027690886872412
+    second: GaizerballGraf1_4
+  - first:
+      213: -8513743825235699889
+    second: GaizerballGraf1_5
+  - first:
+      213: -2532582963215840550
+    second: GaizerballGraf1_6
+  - first:
+      213: -3142525019431406952
+    second: GaizerballGraf1_7
+  - first:
+      213: 8606696430357181976
+    second: GaizerballGraf1_8
+  - first:
+      213: 4353871779799930829
+    second: GaizerballGraf1_9
+  - first:
+      213: 7671968177400775278
+    second: GaizerballGraf1_10
+  - first:
+      213: -109350726275823348
+    second: GaizerballGraf1_11
+  - first:
+      213: 8429568466941381339
+    second: GaizerballGraf1_12
+  - first:
+      213: -8875982799543021533
+    second: GaizerballGraf1_13
+  - first:
+      213: 4877190630829398275
+    second: GaizerballGraf1_14
+  - first:
+      213: -2893225464774020676
+    second: GaizerballGraf1_15
+  - first:
+      213: 3437744704420380906
+    second: GaizerballGraf1_16
+  - first:
+      213: 6166510218172879278
+    second: GaizerballGraf1_17
+  - first:
+      213: -5567047058063159700
+    second: GaizerballGraf1_18
+  - first:
+      213: -3489223759810763566
+    second: GaizerballGraf1_19
+  - first:
+      213: -1877086199018366994
+    second: GaizerballGraf1_20
+  - first:
+      213: -88904660867171660
+    second: GaizerballGraf1_21
+  - first:
+      213: -8629127864132784312
+    second: GaizerballGraf1_22
+  - first:
+      213: -650526858327645927
+    second: GaizerballGraf1_23
+  - first:
+      213: 1486254634096687649
+    second: GaizerballGraf1_24
+  - first:
+      213: 7560632268117156512
+    second: GaizerballGraf1_25
+  - first:
+      213: 410839935055497340
+    second: GaizerballGraf1_26
+  - first:
+      213: -3357006292660244040
+    second: GaizerballGraf1_27
+  - first:
+      213: 5160182027822892560
+    second: GaizerballGraf1_28
+  - first:
+      213: -3107439916586785852
+    second: GaizerballGraf1_29
+  - first:
+      213: 9187745925747706884
+    second: GaizerballGraf1_30
+  - first:
+      213: -2052098989780442700
+    second: GaizerballGraf1_31
+  - first:
+      213: -5847180129034091524
+    second: GaizerballGraf1_32
+  - first:
+      213: -3426306396445646889
+    second: GaizerballGraf1_33
+  - first:
+      213: -2897180760108346226
+    second: GaizerballGraf1_34
+  - first:
+      213: -188130770952072547
+    second: GaizerballGraf1_35
+  - first:
+      213: 7850855883937673362
+    second: GaizerballGraf1_36
+  - first:
+      213: 4488158015296614461
+    second: GaizerballGraf1_37
+  - first:
+      213: 5869909655802089051
+    second: GaizerballGraf1_38
+  - first:
+      213: 8243548741151536662
+    second: GaizerballGraf1_39
+  - first:
+      213: 8793647702628320266
+    second: GaizerballGraf1_40
+  - first:
+      213: -8453436950248129188
+    second: GaizerballGraf1_41
+  - first:
+      213: 8603200650621910303
+    second: GaizerballGraf1_42
+  - first:
+      213: 3339490591346080174
+    second: GaizerballGraf1_43
+  - first:
+      213: 3511630415059695912
+    second: GaizerballGraf1_44
+  - first:
+      213: 1660540601573596495
+    second: GaizerballGraf1_45
+  - first:
+      213: -4833492067743148491
+    second: GaizerballGraf1_46
+  - first:
+      213: 8984149455276312509
+    second: GaizerballGraf1_47
+  - first:
+      213: -5377388164920502402
+    second: GaizerballGraf1_48
+  - first:
+      213: -7636959653286198758
+    second: GaizerballGraf1_49
+  - first:
+      213: -1152211432206480678
+    second: GaizerballGraf1_50
+  - first:
+      213: -2568918892043711261
+    second: GaizerballGraf1_51
+  - first:
+      213: -4190308935615549259
+    second: GaizerballGraf1_52
+  - first:
+      213: -7105713375335490364
+    second: GaizerballGraf1_53
+  - first:
+      213: -824139551678407242
+    second: GaizerballGraf1_54
+  - first:
+      213: -3365735719658415066
+    second: GaizerballGraf1_55
+  - first:
+      213: -3072338728212538668
+    second: GaizerballGraf1_56
+  - first:
+      213: 6109302932476949617
+    second: GaizerballGraf1_57
+  - first:
+      213: 1604613671023060058
+    second: GaizerballGraf1_58
+  - first:
+      213: -3741575528728114175
+    second: GaizerballGraf1_59
+  - first:
+      213: -5557690483778893285
+    second: GaizerballGraf1_60
+  - first:
+      213: -2061798381793133961
+    second: GaizerballGraf1_61
+  - first:
+      213: -4504808200854112690
+    second: GaizerballGraf1_62
+  - first:
+      213: 8813682874064105152
+    second: GaizerballGraf1_63
+  - first:
+      213: 6972135031129258483
+    second: GaizerballGraf1_64
+  - first:
+      213: 5125041352614957635
+    second: GaizerballGraf1_65
+  - first:
+      213: 3235141601652194304
+    second: GaizerballGraf1_66
+  - first:
+      213: -4262851005211544939
+    second: GaizerballGraf1_67
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GaizerballGraf1_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 630
+        width: 95
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b78f1cee3d111b0800000000000000
+      internalID: -5687531831982261445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 628
+        width: 95
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2695a90a233561130800000000000000
+      internalID: 3537106034254043490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_2
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 651
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54089874f37351a60800000000000000
+      internalID: 7644076687453945925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 650
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a978c84b1f57600c0800000000000000
+      internalID: -4609867487590447206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_4
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 622
+        width: 90
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5db316ed15a03e60800000000000000
+      internalID: 7940027690886872412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_5
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 625
+        width: 95
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f479624491b19d980800000000000000
+      internalID: -8513743825235699889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_6
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 630
+        width: 55
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada405196357adcd0800000000000000
+      internalID: -2532582963215840550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_7
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 649
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892730705228364d0800000000000000
+      internalID: -3142525019431406952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_8
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 629
+        width: 167
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816ff0d9dc0217770800000000000000
+      internalID: 8606696430357181976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_9
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 620
+        width: 165
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc79290e05f0c6c30800000000000000
+      internalID: 4353871779799930829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_10
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 0
+        width: 49
+        height: 735
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e620316d86e487a60800000000000000
+      internalID: 7671968177400775278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09066408128b7ef0800000000000000
+      internalID: -109350726275823348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 502
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda00e1ebd7dbf470800000000000000
+      internalID: 8429568466941381339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_13
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 502
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320d2c8bbac22d480800000000000000
+      internalID: -8875982799543021533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 502
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309137cc9034fa340800000000000000
+      internalID: 4877190630829398275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_15
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 584
+        width: 96
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1b70dc4c239d7d0800000000000000
+      internalID: -2893225464774020676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_16
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 536
+        width: 132
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0057f389255bf20800000000000000
+      internalID: 3437744704420380906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 535
+        width: 133
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1d2023f58d39550800000000000000
+      internalID: 6166510218172879278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_18
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 535
+        width: 132
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e03483230edb2b0800000000000000
+      internalID: -5567047058063159700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_19
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 552
+        width: 88
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d460a62a79c39fc0800000000000000
+      internalID: -3489223759810763566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_20
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 520
+        width: 87
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7d8b61c0043f5e0800000000000000
+      internalID: -1877086199018366994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_21
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 436
+        width: 31
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bab2269ea524cef0800000000000000
+      internalID: -88904660867171660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_22
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 437
+        width: 25
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fa0f83ded2f3880800000000000000
+      internalID: -8629127864132784312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_23
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 459
+        width: 25
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911a78cd44dd8f6f0800000000000000
+      internalID: -650526858327645927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_24
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 341
+        width: 67
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a7c1717bc30a410800000000000000
+      internalID: 1486254634096687649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2aa7a6df2cce860800000000000000
+      internalID: 7560632268117156512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_26
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 411
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7807848eb893b500800000000000000
+      internalID: 410839935055497340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 412
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b13c3120948961d0800000000000000
+      internalID: -3357006292660244040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_28
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 412
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0160db8e636ac9740800000000000000
+      internalID: 5160182027822892560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_29
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 425
+        width: 120
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3a9fa1cd720e4d0800000000000000
+      internalID: -3107439916586785852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_30
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 371
+        width: 23
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c0cbe9d3e618f70800000000000000
+      internalID: 9187745925747706884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_31
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 371
+        width: 22
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1e23e57da7583e0800000000000000
+      internalID: -2052098989780442700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_32
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 485
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3433ff6a4aadea0800000000000000
+      internalID: -5847180129034091524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_33
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 485
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df553c5c705370d0800000000000000
+      internalID: -3426306396445646889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_34
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 326
+        width: 120
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8455a7d2752bc7d0800000000000000
+      internalID: -2897180760108346226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_35
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 411
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92d4128f00a36df0800000000000000
+      internalID: -188130770952072547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_36
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 360
+        width: 31
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290f3e0b4d7d3fc60800000000000000
+      internalID: 7850855883937673362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_37
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 360
+        width: 25
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30b3958fe3294e30800000000000000
+      internalID: 4488158015296614461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_38
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 360
+        width: 25
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e08b95bbb167150800000000000000
+      internalID: 5869909655802089051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616b4f467e7f66270800000000000000
+      internalID: 8243548741151536662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_40
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 321
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04471baeff490a70800000000000000
+      internalID: 8793647702628320266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 321
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d7c49c1eb5faa80800000000000000
+      internalID: -8453436950248129188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_42
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 321
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d7ab7f865b46770800000000000000
+      internalID: 8603200650621910303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_43
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 400
+        width: 59
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea931fbdff0485e20800000000000000
+      internalID: 3339490591346080174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_44
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 374
+        width: 68
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8293710d141dbb030800000000000000
+      internalID: 3511630415059695912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d58e311ec6b0710800000000000000
+      internalID: 1660540601573596495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_46
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 231
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5365085c29cfbecb0800000000000000
+      internalID: -4833492067743148491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_47
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 231
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db783ca545c1eac70800000000000000
+      internalID: 8984149455276312509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_48
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 231
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77168264fdaf55b0800000000000000
+      internalID: -5377388164920502402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_49
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 229
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12c2ed58a1140690800000000000000
+      internalID: -7636959653286198758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_50
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 210
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada403d9ec58200f0800000000000000
+      internalID: -1152211432206480678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_51
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 209
+        width: 149
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecc1fed0ed595cd0800000000000000
+      internalID: -2568918892043711261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_52
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 144
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b07d79693809d5c0800000000000000
+      internalID: -4190308935615549259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_53
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 143
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccd263355f636d90800000000000000
+      internalID: -7105713375335490364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_54
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 74
+        width: 160
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bddbd8b1711094f0800000000000000
+      internalID: -824139551678407242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_55
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 55
+        width: 65
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c9ae502318a41d0800000000000000
+      internalID: -3365735719658415066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_56
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 50
+        width: 65
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da5733643cdc55d0800000000000000
+      internalID: -3072338728212538668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_57
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 56
+        width: 66
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1747a8b06aa98c450800000000000000
+      internalID: 6109302932476949617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_58
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 41
+        width: 69
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54a017d1abb44610800000000000000
+      internalID: 1604613671023060058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_59
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 110
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ccddd51e0431cc0800000000000000
+      internalID: -3741575528728114175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_60
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 110
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a4ace63fd1fd2b0800000000000000
+      internalID: -5557690483778893285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_61
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 122
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77abebeab450363e0800000000000000
+      internalID: -2061798381793133961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_62
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 45
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46f2de0fc4bb71c0800000000000000
+      internalID: -4504808200854112690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_63
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 45
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cee88780ed705a70800000000000000
+      internalID: 8813682874064105152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_64
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 72
+        width: 111
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f93480fedff1c060800000000000000
+      internalID: 6972135031129258483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_65
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 11
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3425dc1e4fdcf1740800000000000000
+      internalID: 5125041352614957635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_66
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 48
+        width: 86
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c319c652885ec20800000000000000
+      internalID: 3235141601652194304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GaizerballGraf1_67
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 6
+        width: 77
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592f2f7a89f47d4c0800000000000000
+      internalID: -4262851005211544939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

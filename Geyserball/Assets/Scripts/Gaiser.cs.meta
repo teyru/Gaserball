@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2ea3ad7a8d25a1945b9893b8f0eeeb76
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - joystic: {instanceID: 0}
+  - bulletPrefab: {instanceID: 0}
+  - shootRigidbody: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
