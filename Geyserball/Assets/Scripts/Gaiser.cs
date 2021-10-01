@@ -54,7 +54,7 @@ public class Gaiser : MonoBehaviour
             transform.up = direction;
         }
 
-        if (joystic.Horizontal == 0 || joystic.Vertical == 0)
+        if (joystic.Horizontal == 0 && joystic.Vertical == 0)
         {
             Trajectory.hideLine();
         }
