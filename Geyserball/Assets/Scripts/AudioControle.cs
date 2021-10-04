@@ -30,14 +30,14 @@ public class AudioControle : MonoBehaviour
             firsttap = false;
             if (volume == 1)
             {
-                Camera.main.GetComponent<AudioListener>().enabled = false;
+                AudioListener.pause = true;
                 PlayerPrefs.SetInt("Volume", 1);
                 volume = 0;
                 GetComponent<Image>().color = new Color(255, 0, 0, 255);
             }
             else
             {
-                Camera.main.GetComponent<AudioListener>().enabled = true;
+                AudioListener.pause = false;
                 PlayerPrefs.SetInt("Volume", 0);
                 volume = 1;
                 GetComponent<Image>().color = new Color(255, 255, 255, 255);
@@ -48,13 +48,13 @@ public class AudioControle : MonoBehaviour
         if (volume == 1)
         {
             PlayerPrefs.SetInt("Volume", 1);
-            Camera.main.GetComponent<AudioListener>().enabled = false;
+            AudioListener.pause = true;
             volume = 0;
             GetComponent<Image>().color = new Color(255, 0, 0, 255);
         }
         else
         {
-            Camera.main.GetComponent<AudioListener>().enabled = true;
+            AudioListener.pause = false;
             PlayerPrefs.SetInt("Volume", 0);
             volume = 1;
             GetComponent<Image>().color = new Color(255, 255, 255, 255);

@@ -8,11 +8,11 @@ public class GlobalSound : MonoBehaviour
         volume = PlayerPrefs.GetInt("Volume");
         if (volume == 1)
         {
-            GetComponent<AudioListener>().enabled = false;
+            AudioListener.pause = true;
         }
         else
         {
-            GetComponent<AudioListener>().enabled = true;
+            AudioListener.pause = false;
         }
     }
 }
