@@ -8,7 +8,7 @@ public class LevelController : MonoBehaviour
 {
     public static LevelController instance = null;
     private int sceneIndex;
-    private int levelComlete;
+    public static int levelComplete;
 
     void Start()
     {
@@ -17,12 +17,12 @@ public class LevelController : MonoBehaviour
             instance = this;
         }
         sceneIndex = SceneManager.GetActiveScene().buildIndex;
-        levelComlete = PlayerPrefs.GetInt("LevelComlete");
+        levelComplete = PlayerPrefs.GetInt("LevelComlete");
     }
     
     public void IsEndGame()
     {
-            if(levelComlete < sceneIndex)
+            if(levelComplete < sceneIndex)
             {
                 PlayerPrefs.SetInt("LevelComplete", sceneIndex);
             }

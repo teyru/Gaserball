@@ -6,11 +6,13 @@ public class WinPanel : MonoBehaviour
 {
     public static bool WinGame;
     private int sceneIndex;
+    private int levelComplete;
     public GameObject WinGameMenu;
 
     private void Start()
     {
         sceneIndex = SceneManager.GetActiveScene().buildIndex;
+        levelComplete = PlayerPrefs.GetInt("LevelComplete");
         WinGame = false;
         WinGameMenu.SetActive(false);
         Time.timeScale = 1f;
@@ -18,16 +20,20 @@ public class WinPanel : MonoBehaviour
 
     private void Update()
     {
+        
         if (WinGame)
         {
             StartCoroutine(winGame());
-            PlayerPrefs.SetInt("LevelComplete", sceneIndex);
+            if (levelComplete < sceneIndex)
+            {
+                PlayerPrefs.SetInt("LevelComplete", sceneIndex);
+            }
             GameObject.FindGameObjectWithTag("Gaiser").GetComponent<Gaiser>().enabled = false;
         }
     }
 
     public void NextLevel()
-    { if(sceneIndex == 18)
+    { if(sceneIndex == 20)
         {
             SceneManager.LoadScene("MainMenu");
         }
