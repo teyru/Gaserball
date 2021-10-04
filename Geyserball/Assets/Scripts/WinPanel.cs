@@ -33,7 +33,7 @@ public class WinPanel : MonoBehaviour
     }
 
     public void NextLevel()
-    { if(sceneIndex == 20)
+    { if(sceneIndex == 22)
         {
             SceneManager.LoadScene("MainMenu");
         }
