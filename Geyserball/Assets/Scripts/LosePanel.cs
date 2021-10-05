@@ -6,6 +6,8 @@ using UnityEngine.SceneManagement;
 
 public class LosePanel : MonoBehaviour
 {
+
+    private float _persentShowAds = 0.4f;
     public static bool LoseGame;
     public GameObject LoseGameMenu;
 
@@ -32,10 +34,19 @@ public class LosePanel : MonoBehaviour
 
     public void Restart()
     {
-        LoseGameMenu.SetActive(false);
-        Time.timeScale = 1f;
-        LoseGame = false;
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 0, LoadSceneMode.Single);
+        float tempPersent = Random.Range(0f, 1f);
+        if (tempPersent < _persentShowAds)
+        {
+            AdsCore.ShowAdsVideo("Interstitial_Android");
+            LoseGameMenu.SetActive(false);
+        }
+        else
+        {
+            LoseGameMenu.SetActive(false);
+            Time.timeScale = 1f;
+            LoseGame = false;
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 0, LoadSceneMode.Single);
+        }
     }
 
 
