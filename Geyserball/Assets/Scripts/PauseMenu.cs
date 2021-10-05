@@ -1,9 +1,12 @@
 ﻿using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.Advertisements;
 
 public class PauseMenu : MonoBehaviour
 {
+    [SerializeField] private float _persentShowAds;
+
     public static bool PauseGame = false;
     public GameObject PauseGameMenu;
     private GameObject EnabledElement;
@@ -27,6 +30,7 @@ public class PauseMenu : MonoBehaviour
         PauseGameMenu.SetActive(false);
         Time.timeScale = 1f;
         StartCoroutine(ResumeBg());
+        
     }
 
     public void Pause()
@@ -38,10 +42,19 @@ public class PauseMenu : MonoBehaviour
 
     public void Restart()
     {
-        PauseGameMenu.SetActive(false);
-        Time.timeScale = 1f;
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 0, LoadSceneMode.Single);
-        PauseGame = false;
+        float tempPersent = Random.Range(0f, 1f);
+        if (tempPersent < _persentShowAds)
+        {
+            AdsCore.ShowAdsVideo("Interstitial_Android");
+            PauseGameMenu.SetActive(false);
+        }
+        else
+        {
+            PauseGame = false;
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 0, LoadSceneMode.Single);
+            Time.timeScale = 1f;
+            PauseGameMenu.SetActive(false);
+        }
     }
 
     public void LoadMenu()
