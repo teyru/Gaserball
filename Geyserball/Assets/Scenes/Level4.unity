@@ -4461,7 +4461,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e883943da6a504c48853ad158ccc5569, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _persentShowAds: 0.4
+  _persentShowAds: 0.2
   PauseGameMenu: {fileID: 1743155759}
 --- !u!114 &1556136461
 MonoBehaviour:
